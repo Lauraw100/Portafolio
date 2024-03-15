@@ -10,6 +10,7 @@
 }
 .subcontainer1 {
   width: 33%;
+  height: 100%;
   text-align: center;
   margin-right: 5px;
   border: solid 3px rgb(0, 0, 0);
