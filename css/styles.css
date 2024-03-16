@@ -19,11 +19,10 @@
   box-shadow: 2px 2px 2px black;
 }
 .img1 {
-  background-color: #f2c18d;
+  background-color: #fc819e;
   padding: 3%;
   border-radius: 50%;
-  width: 56%;
-  height: 230px;
+  width: 50%;
   border: solid 2px;
   box-shadow: 2px 2px 2px black;
 }
@@ -71,9 +70,7 @@ a {
   background-color: #fc819e;
 }
 .links {
-  border-radius: 15px;
-  background-color: #fc819e;
-  box-shadow: 2px 2px 2px black;
+  border-radius: 15px; 
 }
 .img {
   padding: 3%;
@@ -83,19 +80,14 @@ a {
   width: 30%;
   height: 50%;
   margin-left: 6px;
-  box-shadow: 2px 2px 2px black;
   background-color: #fc819e;
-  box-shadow: 2px 2px 2px black;
 }
 .imgf:hover {
   background-color: rgb(248, 222, 188);
 }
-
 .imgf {
   background-color: #b7c9f2;
-  height: 80%;
-  width: 100%;
-  border-left: 10%;
+  width: 50%;
   border-radius: 15px;
   box-shadow: 2px 2px 2px black;
 }
