@@ -89,7 +89,7 @@ a {
   background-color: #b7c9f2;
   width: 50%;
   border-radius: 15px;
-  box-shadow: 2px 2px 2px black;
+  /* box-shadow: 2px 2px 2px black; */
 }
 .subcontainer2 {
   width: 33%;
